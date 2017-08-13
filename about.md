@@ -18,7 +18,4 @@ Having a taste fot maths, I chose then technical angle, and started to study com
 I graduated in from *Ecole Polytechnique* and *Paris 8 (ATI)* in 2013.
 Since, I have worked in the animation industry at different positions:
 R&D developer, CG supervisor, assistant head of studio, and currently, CTO for *Studio Hari*.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+	
