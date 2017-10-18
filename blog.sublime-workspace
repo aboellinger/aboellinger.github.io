@@ -1,0 +1,303 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"label",
+				"label-info"
+			],
+			[
+				"file",
+				"file_\tstatement"
+			],
+			[
+				"data",
+				"data_file"
+			],
+			[
+				"U",
+				"UPLOAD_FOLDER\tmodule"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"in",
+				"input_filepath"
+			],
+			[
+				"work",
+				"workflow_id\tstatement"
+			],
+			[
+				"c",
+				"csv_file"
+			],
+			[
+				"cur",
+				"current_workflow\tstatement"
+			],
+			[
+				"req",
+				"request\tmodule"
+			],
+			[
+				"workflow",
+				"workflow_id"
+			],
+			[
+				"list-",
+				"list-group-item"
+			],
+			[
+				"wo",
+				"workflow"
+			],
+			[
+				"std",
+				"stdout\tinstance"
+			],
+			[
+				"type",
+				"type_\tstatement"
+			],
+			[
+				"btn",
+				"btn-primary"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "roadmap.md",
+			"settings":
+			{
+				"buffer_size": 122,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "Roadmap"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"paccka",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/antoine/code/first_prototype/web/models.py",
+		"/home/antoine/code/first_prototype/web/app.py",
+		"/home/antoine/code/first_prototype/web/templates/workflow.html",
+		"/home/antoine/code/first_prototype/web/templates/home.html",
+		"/home/antoine/code/first_prototype/web/config.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"form",
+			"label-default",
+			"h2",
+			"IMAGES",
+			"images",
+			"op_id",
+			"Workflow",
+			"workflow",
+			"expression",
+			"col-sm",
+			"-lg",
+			"col-md",
+			"col-md-",
+			"col-auto"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "roadmap.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Roadmap",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/code/first_prototype/web/project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
