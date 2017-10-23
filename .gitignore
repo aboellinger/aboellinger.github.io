@@ -8,3 +8,11 @@ Gemfile
 Gemfile.lock
 node_modules
 package.json
+
+# Python
+*.pyc
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
