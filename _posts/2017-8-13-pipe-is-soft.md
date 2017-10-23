@@ -3,8 +3,8 @@ layout: post
 title: Pipeline development is software development
 ---
 
-Your company makes movies, not software, why should you care about development
-best practices ?
+Your company makes *movies*, not *software*, so why should you care about
+**development** best practices ?
 
 Development efforts in animation studios
 ========================================
