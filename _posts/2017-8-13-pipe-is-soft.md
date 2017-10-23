@@ -117,10 +117,10 @@ Code review is the process of having developers read and comment each others
 code.
 It has several benefits:
 
-* It keeps coders aware of what their teammates are working on
-* It triggers discussions about best practices and existing code, improving
+* It **keeps coders aware** of what their teammates are working on
+* It **triggers discussions** about best practices and existing code, improving
   code quality, reusability, an homogeneity
-* It allows junior developers to learn faster through mentoring
+* It allows junior developers to **learn faster** through mentoring
 
 At [Studio Hari][hari] we installed Review Board.
 GitLab and GitHub include reviewing tools.
@@ -199,6 +199,7 @@ At [Studio Hari][hari], we only set up a [CI][CI] pipeline,
 the deployment still requiring to manually run a deployment script.
 It already helped us stabilizing the production environment,
 even when doing deep changes to our codebase.
+
 
 
 [^1]: Actually, you don't *just* write comments. They also have to be clear
