@@ -1,5 +1,8 @@
 Roadmap
 
+Blog
+====
+
 * Pipeline development is software development
 
 * 5 ways use cases for an automation server on a python project
@@ -34,3 +37,16 @@ Roadmap
 * Bazillion nights
 
 * Photo + videomapping
+
+Projects
+========
+
+Gus
+H1R1
+Rumba
+Mécanique de l'Imprévu
+PJMasks
+The Owl & Co.
+Grizzy & the lemmings
+ActionDesk
+
