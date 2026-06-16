@@ -2,6 +2,7 @@
 # Python
 *.py[oc]
 venv*/
+.venv*/
 
 # IDE
 .vscode
